@@ -9,18 +9,18 @@ setup(
 
 
 # setup(
-#     name='your_package',
+#     name='xh_py',
 #     version='0.1',
 #     packages=find_packages(),
 #     install_requires=[
 #         'dependencies==x.x.x',
 #     ],
 #     author='Dipen Parmar',
-#     author_email='dparmar@xerohome.com',
+#     author_email='dipensavji@gmail.com',
 #     description='Simple package, Designed for testing and learning, aimed at enhancing our workflow for increased efficiency ',
 #     long_description=open('README.md').read(),
 #     long_description_content_type='text/markdown',
-#     url='https://github.com/xerohome/your_package',
+#     url='https://github.com/dipenparmar12/py_package',
 #     classifiers=[
 #         'Development Status :: 3 - Alpha',
 #         'Programming Language :: Python :: 3',
